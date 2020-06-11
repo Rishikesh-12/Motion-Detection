@@ -5,4 +5,4 @@ This is a motion detecting python script which uses your webcam (internal/extern
 
 ### How it works.
 * It uses 3 grayscale images for processing and a color picture for output.
-![alt text](https://github.com/Rishikesh-12/Motion-Detection/blob/master/Screenshot%20(167).png)
+![alt text](https://github.com/Rishikesh-12/Motion-Detection/blob/master/sampleFrames.png)
