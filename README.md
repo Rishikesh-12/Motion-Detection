@@ -5,7 +5,7 @@ This is a motion detecting python script which uses your webcam (internal/extern
 
 ### Demo
 ----
-![alt text](https://github.com/Rishikesh-12/Motion-Detection/blob/master/demo.webm)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SKrlHjXN8xs/0.jpg)](http://www.youtube.com/watch?v=SKrlHjXN8xs)
 
 
 
@@ -15,7 +15,7 @@ This is a motion detecting python script which uses your webcam (internal/extern
 
 
 * As soon as you end the program it generates a graph indicating the entry and exit time of a object in the frame.
-![alt text](https://github.com/Rishikesh-12/Motion-Detection/blob/master/motion graph.png)
+![alt text](https://github.com/Rishikesh-12/Motion-Detection/blob/master/motion%20graph.png)
 
 
 ### To use this program
